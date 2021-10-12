@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="login_title">LOGIN</string>
+    <string name="uname">admin@gmail.com</string>
+    <string name="pass">admin</string>
+    <string name="start_home">Welcome..!</string>
+</resources>
